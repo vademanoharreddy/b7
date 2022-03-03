@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>               Hello Friends! mar-3 branch Release_1.0.0               </h2>
+<h2>               Hello Friends! mar-3 branch Release_2.0.0               </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP !!!!!!!!     </h3>
 <h4> @Trainers - SATYA / KIRAN / MANOHAR REDDY / FAYAZ    </h4>
 <marquee behavior="alternate">Devops& GCP <marquee>
